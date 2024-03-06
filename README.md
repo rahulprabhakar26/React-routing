@@ -1,4 +1,4 @@
-This repo contains the code for react rounting
+This repo contains the code for react routing.
 
 
 
